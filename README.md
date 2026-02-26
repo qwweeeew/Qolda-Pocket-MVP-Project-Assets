@@ -3,4 +3,4 @@ Qolda AI is a powerfull LLM, that specifies on Kazakh language support. Our Prod
 # Why we did it?
 We acted under the **Local Impact Hackaton**, our topic was **"AI in Daily Life"**.
 # Want an Android App? (⚠️ Highly Experimental ⚠️)
-Our **Android App** is availible here. It supports all versions of android higher than Android 8.
+Our **Android App** is availible [here](https://github.com/forge-sa/QoldaPocket-Android-App). It supports all versions of android higher than Android 8.
